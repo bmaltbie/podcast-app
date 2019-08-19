@@ -1,13 +1,13 @@
 # podcast-app
 iOS app to download and listen to podcasts. Build for Castaway start-up, app end goal is to be a social podcast experience. In the app, you're able to search the iTunes API or input RSS feeds for episodes, add episodes, play them or download them, and then comment on the episodes and share them with friends. 
 
-##Currently implements:
--[X] Alamofire, Cocoapods, iTunes Search API
--[X] Decodable podcasts and URLEncoding requests
--[X] Cell Designs with XIBs and Interface Builder
--[X] Loading and Caching Images with SDWebImage
--[X] Parsing RSS XML Feed with FEedKit
--[X] Episode Cell Details and Design with Interface Builder
+## Currently implements:
+- [X] Alamofire, Cocoapods, iTunes Search API
+- [X] Decodable podcasts and URLEncoding requests
+- [X] Cell Designs with XIBs and Interface Builder
+- [X] Loading and Caching Images with SDWebImage
+- [X] Parsing RSS XML Feed with FEedKit
+- [X] Episode Cell Details and Design with Interface Builder
 
 
 ## Search UI
@@ -28,10 +28,10 @@ On this screen, you're able to see details about what episodes the podcast has a
 The UI when playing a podast, still unfinished but the groundwork is there.
 
 
-##TO DO: 
--[ ] Finish 'Play podcast' UI 
--[ ] Floating Player View
--[ ] Draggable Player 
--[ ] Background Audio Playback and Lock Sceen Info
--[ ] Favorites
--[ ] Downloads - Offline playback
+## TO DO: 
+- [ ] Finish 'Play podcast' UI 
+- [ ] Floating Player View
+- [ ] Draggable Player 
+- [ ] Background Audio Playback and Lock Sceen Info
+- [ ] Favorites
+- [ ] Downloads - Offline playback
